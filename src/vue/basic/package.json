@@ -1,0 +1,19 @@
+{
+  "name": "{{name}}",
+  "version": "1.0.0",
+  "description": "{{description}}",
+  "main": "index.js",
+  "scripts": {
+    "start": "bfun dev",
+    "build": "bfun build"
+  },
+  "author": "{{author}}",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "2",
+    "vue-router": "3"
+  },
+  "devDependencies": {
+    "@bfunjs/cli": "latest"
+  }
+}

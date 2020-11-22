@@ -1,0 +1,28 @@
+{
+  "name": "@bfun/templates",
+  "version": "1.0.1",
+  "description": "@bfun/cli default templates",
+  "main": "index.js",
+  "scripts": {
+    "build": "node ./scripts/build.js"
+  },
+  "devDependencies": {
+    "@bfun/utils": "latest",
+    "npm-packlist": "2",
+    "tar": "6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bfunjs/bfun-templates.git"
+  },
+  "keywords": [
+    "bfun",
+    "templates"
+  ],
+  "author": "suibinc@qq.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bfunjs/bfun-templates/issues"
+  },
+  "homepage": "https://github.com/bfunjs/bfun-templates#readme"
+}

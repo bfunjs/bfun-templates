@@ -1,2 +1,3 @@
-# bfun-templates
-@bfun/templates
+# @bfun/templates
+
+@bfun/cli default templates
